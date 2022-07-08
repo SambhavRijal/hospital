@@ -1,0 +1,54 @@
+navbar (header)  honda, home , bikes, about us, if not logged in: login    (after login: name, logout)
+
+
+home:
+include nav.php
+div class=sth     		class=.  id=#  tag=nothing universal=*
+something.css
+.sth	
+
+-- to put css --
+<head>
+	<link rel="stylesheet" href="something.css">
+</head>
+
+<p class="name" id="name">Sambhav</p>
+<p class="person">Swastika</p>
+
+css:
+.name{
+	color:red;
+}
+
+p{
+	color:red;
+}
+
+*{
+	font-style:
+}
+
+#name{
+	color:red;
+}
+
+homepage.
+
+navbar: https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_dividers
+
+first div: class{ css:
+	width:100%;
+	height: 90vh or 100vh or 85 or.....
+	background-img:url("photo/bike.png/jpeg");
+	sehh:no repeat
+
+	google:: how to put background image in div
+
+	}
+
+ menu:  also for bikes page: https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery
+
+
+
+}
+
